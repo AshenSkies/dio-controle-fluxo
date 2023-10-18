@@ -1,6 +1,6 @@
-bin/
-build/
-tmp/
+DesafioControleFluxo/bin/
+DesafioControleFluxo/build/
+DesafioControleFluxo/tmp/
 
-.vscode/
-.code-workspace
+DesafioControleFluxo/.vscode/
+DesafioControleFluxo/.code-workspace
